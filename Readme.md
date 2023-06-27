@@ -8,6 +8,9 @@ This is a React based website where I used API to fetch the all data.
 [Documentation for React JS](https://react.dev/learn)
 
 
+## Project Link
+[Live Link](https://top-courses-by-bidya.netlify.app/)
+
 ## Run Locally
 
 Clone the project
